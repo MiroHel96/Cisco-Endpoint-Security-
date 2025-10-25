@@ -64,5 +64,27 @@ External atackers can exploit vulnerabilities in network devices or use social e
 
 Internal threat is more potential to cause more serious damage. Current workers have direct access to companys premises and infrastructure devices. They also have inside info of organizations network, resources and confidential data. 
 
+## User Threats and Vulnerabilities 
+
+User domain - includes anyone with access to organization's information, system. Users are considered to be the weakest link in information security systems, posing a significant threat to CIA (Confidentiality, Integrity and availability) of organizations data. 
+
+
+Most common user threats:
+
+- No awareness of security
+- Poorly enforces security policies
+- Data theft
+- Unauthorized downloads and media
+- Unauthorized virtual private networks (VPNs)
+- Unauthorized websites
+- Destruction of systems, applications or data
+
+
+## Threats to Devices 
+
+
+
+  
+
 
 

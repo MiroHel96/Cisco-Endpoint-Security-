@@ -145,8 +145,27 @@ Applications pose significant threats
 
 ## Threath Complexity 
 
+APT (advanced persisten threat) - is a continuous attack that uses elaborate espionage tactics involving multiple actor and/or sophisticated malware to gain access to and analyze a target's network.
+
+Thes attackers operate under the radar and remain undetected for a long period of time. Usually target governments and high-level organizations and are usually well orchestrated and well-funded.
+
+
+
 
 ## Backdoors and rootkits 
+
+Backdoor programs, such as Netbus and Back Orifice
+- used to gain unauthorirez access to a system by bypassing the normal authentication procedures
+- Usually backdoors are installed by users unknowingly. Eg Remote administrative tool program (RAT), it gives administrative rights over the target computer. Backdoors grant access to a system even if the origianl vulnerability has been fixed, which was used to attack the system.
+
+Rootkits modifies operating system to create a back door, which can be used to acces the comouter remotely. Usually rootkits take advantage of sofwtare vulnerabilities to gain access to resrouces that normally should not be allowed. (Privilege escalation and system files modification)
+
+Rootkits can also modify system forensics and monitoring tools making them very hard to detect. Usually computer infected by a rootkit has to be wiped and reinstalled.
+
+
+## Threath Intelligence and Reserach Sources 
+
+
 
 
 

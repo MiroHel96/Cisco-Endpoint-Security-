@@ -125,11 +125,23 @@ Public Cloud Models
 - Platform as a Service (Paas) - subscription based model provides a platform that allows developing, running and managing applications on the service's hardware. It is accessed via public cloud.
   
 - Infrastructure as a Service (IaaS) - subscription based model which provides virtual computing resources. Hardware, software servers, storage and other types of infrastructure components. 
-  
 
+Most common threaths to public cloud are the following: 
+- Data breaches
+- Loss of theft of intellectual property
+- Compromised accounts and passwords
+- Social engineering attacsk (phissing etc)
+- Compliance violiation
 
 ## Threats to Applications 
+Application domain includes critical systems, applications and data. These are eng email, security monitoring and database management. These are more frequently hosted from public cloud.
 
+Applications pose significant threats
+- Gaining unauthorized access to data centers, computers, wiring closets or systems
+- Downtime of servers during maintenance (Cloud provider hosting the services, company cannot use own backup server and so on.)
+- Network operatin system sofware vulnerabilities.
+- Data loss (third party affecting)
+- Vulnerabilities in client-server of web application development
 
 ## Threath Complexity 
 
